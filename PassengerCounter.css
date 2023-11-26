@@ -1,12 +1,14 @@
 * {
     text-align: center;
-    background-image: url(https://images.pexels.com/photos/3480390/pexels-photo-3480390.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
+    background-image: url(https://images.pexels.com/photos/3255349/pexels-photo-3255349.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2);
     background-size: cover;
     font-family: Cambria, Cochi;
     font-weight: bold;
+    color: white;
 }
 
 h1 {
+    background: none;
     margin-top: 10px;
     margin-bottom: 10px;
 }
@@ -41,5 +43,39 @@ button {
 }
 
 #sum-btn {
-    background: black;
+    background: wheat;
+    color: black;
 }
+
+
+
+
+
+/*
+* {
+    text-align: center;
+}
+
+button {
+    border: none;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 200px;
+    margin-bottom: 5px;
+    border-radius: 5px;
+}
+p {
+    background: none;
+    font-size: medium;
+}
+
+#purchase-btn {
+    background: rgba(0, 0, 255, 0.638);
+}
+#error {
+    color: red;
+    font-size: small;
+}
+*/

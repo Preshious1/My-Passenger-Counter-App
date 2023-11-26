@@ -47,3 +47,10 @@ function calculateSum() {
 }
 
 console.log("Let's count people on the subway!");
+
+// let errorParagraph = document.getElementById("error")
+
+// function purchase() {
+//     errorParagraph.innerText = "Something went wrong, please try again!"
+
+// }
